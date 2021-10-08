@@ -13,7 +13,7 @@
 In this course, we try to teach substantial skills required for every undergraduate student. 
 It covers fundamental concepts from hardware components to various OSs and their components.
 Particularly, command lines and essentials in Linux are taught. 
-In the remaing time of the semester, neccessary tips and tricks of must-known tools, such as Office, and web search are considered.
+In the remaing time of the semester, necessary tips and tricks of must-known tools, such as Office, and web search are considered.
 If we have time, Latex and web programming are in our attention.
 
 It is worth mentioning that we explain concepts in the first part of the class 
@@ -39,7 +39,7 @@ Main TextBooks:
  2. An Introduction to Operating System, File System and Virtual Machine
  3. An Introduction to Linux
  4. An Introduction to Command Lines
- 5. Neccessary Practices in Linux 
+ 5. Necessary Practices in Linux 
       <br/><t/>I. Installation of Compiler, editors 
       <br/><t/>II. Compiling through command lines
       <br/><t/>III. Piping
