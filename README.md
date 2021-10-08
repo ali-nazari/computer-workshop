@@ -37,19 +37,18 @@ Main TextBooks:
  ## <a name='syllabus' />Syllabus
  1. An Introduction to Hardware
  2. An Introduction to Operating System, File System and Virtual Machine
- 3. An Introduction to Relational Databases
- 4. An Introduction to Linux
- 5. An Introduction to Command Lines
- 6. Neccessary Practices in Linux 
+ 3. An Introduction to Linux
+ 4. An Introduction to Command Lines
+ 5. Neccessary Practices in Linux 
       <br/><t/>I. Installation of Compiler, editors 
       <br/><t/>II. Compiling through command lines
       <br/><t/>III. Piping
- 7. Installation of programs especially a game from its source.
- 8. Advanced Concepts in Linux
- 9. Basics of Network
- 10. Office
- 11. Web programming
- 12. Tex
+ 6. Installation of programs especially a game from its source.
+ 7. Advanced Concepts in Linux
+ 8. Basics of Network
+ 9. Office
+ 10. Web programming
+ 11. Tex
 
 
 ## <a name="Class-Time-and-Location"></a>Class Time and Location:
