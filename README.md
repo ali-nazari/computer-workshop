@@ -19,7 +19,13 @@ If we have time, Latex and web programming are in our attention.
 It is worth mentioning that we explain concepts in the first part of the class 
 and practice them in the second part.
 ```
+## <a name="TextBooks"></a>TextBooks:
 
+<table class="tg">
+  <tr>
+    <td class="tg-0lax"><img src="lpic-1.jpg" alt="" border='3' height='160' width='170' /></td>
+  </tr>
+</table>
 ```
 Main TextBooks:
 ```
