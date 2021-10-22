@@ -23,10 +23,10 @@ and practice them in the second part.
 
 <table class="tg">
   <tr>
-    <td class="tg-0lax"><img src="lpic-1.jpg" alt="" border='3' height='160' width='170' /></td>
-    <td class="tg-0lax"><img src="Essential.jpg" alt="" border='3' height='160' width='170' /></td>
-    <td class="tg-0lax"><img src="Complete_A.jpg" alt="" border='3' height='160' width='170' /></td>
-    <td class="tg-0lax"><img src="CompTIA.jpg" alt="" border='3' height='160' width='170' /></td>
+    <td class="tg-0lax"><img src="images/lpic-1.jpg" alt="" border='3' height='160' width='170' /></td>
+    <td class="tg-0lax"><img src="images/Essential.jpg" alt="" border='3' height='160' width='170' /></td>
+    <td class="tg-0lax"><img src="images/Complete_A.jpg" alt="" border='3' height='160' width='170' /></td>
+    <td class="tg-0lax"><img src="images/CompTIA.jpg" alt="" border='3' height='160' width='170' /></td>
   </tr>
 </table>
 
@@ -40,6 +40,10 @@ Main TextBooks:
   This book is great for beginners or a basic computing class.
   Author: Kevin Wilson
   ISBN: 9781911174592
+
+```
+Additional Texts:
+```
 * [Complete A+ Guide to IT Hardware and Software: A CompTIA A+ Core 1 & Core 2 Textbook](https://www.pearson.com/us/higher-education/program/Schmidt-Complete-A-Guide-to-IT-Hardware-and-Software-A-Comp-TIA-A-Core-1-220-1001-Comp-TIA-A-Core-2-220-1002-Textbook-8th-Edition/PGM2170776.html)
   Author: Cheryl A. Schmidt 
   ‏ ASIN  : B07VGM34WR 
