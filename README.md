@@ -24,6 +24,9 @@ and practice them in the second part.
 <table class="tg">
   <tr>
     <td class="tg-0lax"><img src="lpic-1.jpg" alt="" border='3' height='160' width='170' /></td>
+    <td class="tg-0lax"><img src="Essential.jpg" alt="" border='3' height='160' width='170' /></td>
+    <td class="tg-0lax"><img src="Complete_A.jpg" alt="" border='3' height='160' width='170' /></td>
+    <td class="tg-0lax"><img src="CompTIA.jpg" alt="" border='3' height='160' width='170' /></td>
   </tr>
 </table>
 
@@ -33,6 +36,17 @@ Main TextBooks:
 * [LPIC-1 Linux Professional Institute Certification Study Guide; 5th edition (2019)](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119582175)
   Authors: Christine Bresnahan, Richard Blum
   Print ISBN:9781119582120 |Online ISBN:9781119582175 |DOI:10.1002/9781119582175
+* [Essential Computer Hardware Second Edition: The Illustrated Guide to Understanding Computer Hardware](https://www.amazon.com/Essential-Computer-Hardware-Illustrated-Understanding/dp/1911174592)
+  This book is great for beginners or a basic computing class.
+  Author: Kevin Wilson
+  ISBN: 9781911174592
+* [Complete A+ Guide to IT Hardware and Software: A CompTIA A+ Core 1 & Core 2 Textbook](https://www.pearson.com/us/higher-education/program/Schmidt-Complete-A-Guide-to-IT-Hardware-and-Software-A-Comp-TIA-A-Core-1-220-1001-Comp-TIA-A-Core-2-220-1002-Textbook-8th-Edition/PGM2170776.html)
+  Author: Cheryl A. Schmidt 
+  ‏ ASIN  : B07VGM34WR 
+* [CompTIA A+ Certification All-in-One Exam Guide, Tenth Edition](https://www.mheducation.com/highered/product/comptia-certification-all-one-exam-guide-tenth-edition-exams-220-1001-220-1002-meyers/9781260454031.html)
+  Author:  Mike Meyers 
+  ISBN: 9781260454031 
+  
 
  ## <a name='syllabus' />Syllabus
  1. An Introduction to Hardware
