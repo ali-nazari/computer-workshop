@@ -94,3 +94,4 @@ You can ask your question by sending a mail to al_nazari@sbu.ac.ir or ali.nazari
 
 ### <a name="recom_linux"></a>Recommended Links related to Linux:
   * Blog: [Top 21 Bash Command](https://towardsdatascience.com/rock-the-command-line-52c4b2ea34b7) 
+  * Blog: [The Silver Searcher](https://github.com/ggreer/the_silver_searcher)
