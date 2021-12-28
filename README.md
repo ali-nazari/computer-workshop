@@ -83,6 +83,7 @@ Bonus mark to active student -5% </br>
 You can ask your question by sending a mail to al_nazari@sbu.ac.ir or ali.nazari.ir@gmail.com 
 
 ## <a name="links"></a>Recommended Links:
+### <a name="recom_edu"></a>Recommended Links for successful path in CS:
 1. [Path to a free self-taught education in Computer Science](https://github.com/ossu/computer-science) 
 2. [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
 3. [Teach Yourself Computer Science](https://teachyourselfcs.com)
@@ -91,3 +92,5 @@ You can ask your question by sending a mail to al_nazari@sbu.ac.ir or ali.nazari
 
 5. [A Vision of K-12 Computer Science Education for 2030](https://cacm.acm.org/magazines/2020/5/244329-a-vision-of-k-12-computer-science-education-for-2030/fulltext)
 
+### <a name="recom_linux"></a>Recommended Links related to Linux:
+  * Blog: [Top 21 Bash Command](https://towardsdatascience.com/rock-the-command-line-52c4b2ea34b7) 
